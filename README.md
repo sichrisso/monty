@@ -3,11 +3,7 @@
      C low-level programming language
 =======================================================================
 
-## Installation:
-
-- clone the repository
-
-    https://github.com/Yunus-kidem/monty
+## Installation
 
 - compile with
 
@@ -54,7 +50,3 @@ Monty byte code files can contain blank lines (empty or made of spaces only, and
       $
 	pall This is the end of our program. Monty is awesome!$
      julien@ubuntu:~/monty$
-
-    
-## Authors
-* **Yunus Kidem** - [Yunus-kidem](https://github.com/Yunus-kidem)
